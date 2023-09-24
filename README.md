@@ -37,7 +37,7 @@ The CNN model achieved an accuracy of 25% on the test data, indicating moderate 
 Since the Random Forest classifier demonstrated the highest level of performance when compared to the other models, I made the decision to deploy it on PythonAnywhere. By doing so, I've provided an accessible platform for others to leverage the model's impressive predictive capabilities. My hope is that this deployment proves beneficial and valuable to those seeking accurate predictions for their own datasets. 
    
    6. Next step:
-   7. 
+
 As I reflect on this project, I recognize several limitations that warrant attention. Firstly, my dataset is comprised of only 300 jpg MRI images per category. 
 Expanding the dataset's scope to include various data formats and increasing the sample size could enhance the model's ability to handle diverse cases effectively.
 
